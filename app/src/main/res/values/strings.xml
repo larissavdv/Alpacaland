@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ljvelpen_oblig2</string>
+    <string name="partier">Partier</string>
+    <string name="loading_votes">Loading votes...</string>
+    <string name="valgresultater">"Valgresultater for "</string>
+    <string name="velg_distrikt">Velg distrikt</string>
+    <string name="loading">Loading...</string>
+    <string name="parti">Parti</string>
+    <string name="antall_stemmer">Antall stemmer</string>
+    <string name="informasjon">Informasjon</string>
+    <string name="tilbake">Gå tilbake</string>
+    <string name="partyleader_descr">image of partyleader</string>
+</resources>
