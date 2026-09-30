@@ -1,6 +1,6 @@
-# Alpakkaland Election App
+# Alpacaland Election App
 
-An Android app that shows the election results in the fictional Alpakkaland, along with information about the four alpaca parties and their leaders. Made as an assignment in IN2000 at the University of Oslo, spring 2026.
+An Android app that shows the election results in the fictional Alpacaland, along with information about the four alpaca parties and their leaders. Made as an assignment in IN2000 at the University of Oslo, spring 2026.
 
 ## Features
 
